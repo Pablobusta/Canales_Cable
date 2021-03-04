@@ -1,3 +1,145 @@
-#EXTM3U #EXTINF:0 tvg-id="ext" group-title="Channels",CR - Repretel Canal 6 http://latvonlive.com:33612/live/Rico/1234/69.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",CR - Teletica Canal 7 http://latvonlive.com:33612/live/Rico/1234/66.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",CR - Repretel Canal 11 http://latvonlive.com:33612/live/Rico/1234/70.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",CR - Multimedios http://latvonlive.com:33612/live/Rico/1234/108.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",CR - Tigo Sports http://latvonlive.com:33612/live/Rico/1234/800.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",CR - FUTV http://latvonlive.com:33612/live/Rico/1234/802.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",GT - Canal 3 http://latvonlive.com:33612/live/Rico/1234/791.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",GT - Guatevision http://latvonlive.com:33612/live/Rico/1234/790.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",GT - Televisiete http://latvonlive.com:33612/live/Rico/1234/789.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",GT - TN 23 http://latvonlive.com:33612/live/Rico/1234/788.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",SV - Canal 19 http://latvonlive.com:33612/live/Rico/1234/73.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",SV - Canal 21 http://latvonlive.com:33612/live/Rico/1234/72.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",SV - Tele El Salvador http://latvonlive.com:33612/live/Rico/1234/47.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",AR - America TV http://latvonlive.com:33612/live/Rico/1234/44.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",AR - Canal 9 http://latvonlive.com:33612/live/Rico/1234/213.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",AR - El Trece http://latvonlive.com:33612/live/Rico/1234/210.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",AR - Telefe http://latvonlive.com:33612/live/Rico/1234/205.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",AR - Telefe Internacional HD http://latvonlive.com:33612/live/Rico/1234/157.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",AR - TN http://latvonlive.com:33612/live/Rico/1234/203.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",AR - Tv Publica http://latvonlive.com:33612/live/Rico/1234/202.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",BR - Cartoon Network HD http://latvonlive.com:33612/live/Rico/1234/85.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",BR - Space HD http://latvonlive.com:33612/live/Rico/1234/87.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",BR - TNT Series HD http://latvonlive.com:33612/live/Rico/1234/86.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",CL - 24 Horas TVN http://latvonlive.com:33612/live/Rico/1234/352.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",CL - Canal 13 HD http://latvonlive.com:33612/live/Rico/1234/353.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",CL - CDF Basico Chile http://latvonlive.com:33612/live/Rico/1234/901.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",CL - CDF HD Chile http://latvonlive.com:33612/live/Rico/1234/348.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",CL - CDF Premium Chile http://latvonlive.com:33612/live/Rico/1234/903.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",CL - Mega http://latvonlive.com:33612/live/Rico/1234/336.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",CL - TV Chile http://latvonlive.com:33612/live/Rico/1234/575.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",CO - Canal UNO http://latvonlive.com:33612/live/Rico/1234/201.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",CO - Caracol HD http://latvonlive.com:33612/live/Rico/1234/200.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",CO - Caracol Internacional http://latvonlive.com:33612/live/Rico/1234/7.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",CO - City TV http://latvonlive.com:33612/live/Rico/1234/199.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",CO - RCN HD http://latvonlive.com:33612/live/Rico/1234/197.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",CO - RCN Internacional HD http://latvonlive.com:33612/live/Rico/1234/6.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",CO - Teleantioquia http://latvonlive.com:33612/live/Rico/1234/646.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",CO - Telecafé http://latvonlive.com:33612/live/Rico/1234/645.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",CO - Telecaribe http://latvonlive.com:33612/live/Rico/1234/644.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",CO - Telemedellín http://latvonlive.com:33612/live/Rico/1234/5712.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",CO - TelePacifico HD http://latvonlive.com:33612/live/Rico/1234/133.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",CO - Win Sports HD http://latvonlive.com:33612/live/Rico/1234/191.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",CO - Win Sports+ HD http://latvonlive.com:33612/live/Rico/1234/5715.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",EC - Canal Uno HD http://latvonlive.com:33612/live/Rico/1234/596.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",EC - Ecuavisa http://latvonlive.com:33612/live/Rico/1234/570.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",EC - Gamavisión http://latvonlive.com:33612/live/Rico/1234/572.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",EC - RTS http://latvonlive.com:33612/live/Rico/1234/568.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",EC - TC Television http://latvonlive.com:33612/live/Rico/1234/571.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",EC - Teleamazonas http://latvonlive.com:33612/live/Rico/1234/566.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",PE - America TV http://latvonlive.com:33612/live/Rico/1234/573.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",PE - ATV http://latvonlive.com:33612/live/Rico/1234/178.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",PE - Gol TV http://latvonlive.com:33612/live/Rico/1234/176.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",PE - Latina http://latvonlive.com:33612/live/Rico/1234/175.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",PE - Panamericana http://latvonlive.com:33612/live/Rico/1234/170.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",PE - TV Peru HD http://latvonlive.com:33612/live/Rico/1234/167.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",UY - Canal 4 http://latvonlive.com:33612/live/Rico/1234/99.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",UY - Canal 10 http://latvonlive.com:33612/live/Rico/1234/102.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",VE - Telesur http://latvonlive.com:33612/live/Rico/1234/535.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",DO - Color Visión http://latvonlive.com:33612/live/Rico/1234/935.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",DO - Digital 15 http://latvonlive.com:33612/live/Rico/1234/930.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",DO - Supercanal http://latvonlive.com:33612/live/Rico/1234/49.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",DO - Tele Antillas http://latvonlive.com:33612/live/Rico/1234/907.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",DO - Telecentro http://latvonlive.com:33612/live/Rico/1234/909.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",DO - Teleimpacto http://latvonlive.com:33612/live/Rico/1234/48.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",DO - Telemicro http://latvonlive.com:33612/live/Rico/1234/937.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",DO - Telesistema http://latvonlive.com:33612/live/Rico/1234/936.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",DO - Teleuniverso http://latvonlive.com:33612/live/Rico/1234/939.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",CU - Cubavision http://latvonlive.com:33612/live/Rico/1234/410.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",CU - Tele Rebelde http://latvonlive.com:33612/live/Rico/1234/409.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",PR - Telemundo 2 WKAQDT http://latvonlive.com:33612/live/Rico/1234/672.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",PR - Canal 6 WIPRDT http://latvonlive.com:33612/live/Rico/1234/653.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",PR - Wapa America http://latvonlive.com:33612/live/Rico/1234/669.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",ES - La 1 HD http://latvonlive.com:33612/live/Rico/1234/183.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",ES - La 2 http://latvonlive.com:33612/live/Rico/1234/184.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",ES - Antena 3 http://latvonlive.com:33612/live/Rico/1234/516.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",ES - Antena 3 Internacional http://latvonlive.com:33612/live/Rico/1234/189.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",ES - Cuatro http://latvonlive.com:33612/live/Rico/1234/186.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",ES - Telecinco http://latvonlive.com:33612/live/Rico/1234/188.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",ES - La Sexta http://latvonlive.com:33612/live/Rico/1234/181.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",ES - Mega http://latvonlive.com:33612/live/Rico/1234/898.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",ES - Factoría de Ficción http://latvonlive.com:33612/live/Rico/1234/84.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",TUDN HD http://latvonlive.com:33612/live/Rico/1234/240.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",TUDN Mexico http://latvonlive.com:33612/live/Rico/1234/527.m3u8 #EXTINF:0 tvg-id="beINSPORTSenespanol467.us" group-title="Channels",beIN Sports En Español HD http://latvonlive.com:33612/live/Rico/1234/241.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",DIRECTV Sports Latino HD http://latvonlive.com:33612/live/Rico/1234/893.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",DIRECTV Sports 2 Latino HD http://latvonlive.com:33612/live/Rico/1234/892.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",DIRECTV Sports Plus Latino HD http://latvonlive.com:33612/live/Rico/1234/894.m3u8 #EXTINF:0 tvg-id="ESPN.uk" group-title="Channels",ESPN HD http://latvonlive.com:33612/live/Rico/1234/530.m3u8 #EXTINF:0 tvg-id="ESPN2.us" group-title="Channels",ESPN 2 HD http://latvonlive.com:33612/live/Rico/1234/665.m3u8 #EXTINF:0 tvg-id="ESPN2.mx" group-title="Channels",ESPN 2 Mexico http://latvonlive.com:33612/live/Rico/1234/4.m3u8 #EXTINF:0 tvg-id="ESPN3HD.mx" group-title="Channels",ESPN 3 HD http://latvonlive.com:33612/live/Rico/1234/620.m3u8 #EXTINF:0 tvg-id="Espnextra.br" group-title="Channels",ESPN Extra HD http://latvonlive.com:33612/live/Rico/1234/423.m3u8 #EXTINF:0 tvg-id="ESPNDeportesHD.us" group-title="Channels",ESPN Deportes HD http://latvonlive.com:33612/live/Rico/1234/537.m3u8 #EXTINF:0 tvg-id="esp-hd" group-title="Channels",Eurosport 1 HD http://latvonlive.com:33612/live/Rico/1234/722.m3u8 #EXTINF:0 tvg-id="FOXDeportes.us" group-title="Channels",Fox Deportes HD http://latvonlive.com:33612/live/Rico/1234/350.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",Fox Sports HD Argentina http://latvonlive.com:33612/live/Rico/1234/20.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",Fox Sports HD Mexico http://latvonlive.com:33612/live/Rico/1234/163.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",Fox Sports 2 HD Argentina http://latvonlive.com:33612/live/Rico/1234/165.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",Fox Sports 2 HD Mexico http://latvonlive.com:33612/live/Rico/1234/162.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",Fox Sports 3 HD Argentina http://latvonlive.com:33612/live/Rico/1234/22.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",Fox Sports Premium HD Argentina http://latvonlive.com:33612/live/Rico/1234/166.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",Fox Sports 3 HD Mexico http://latvonlive.com:33612/live/Rico/1234/161.m3u8 #EXTINF:0 tvg-id="GolTV.us" group-title="Channels",GolTV http://latvonlive.com:33612/live/Rico/1234/368.m3u8 #EXTINF:0 tvg-id="RealMadridTV.es" group-title="Channels",Real Madrid TV http://latvonlive.com:33612/live/Rico/1234/158.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",TNT Sports Argentina http://latvonlive.com:33612/live/Rico/1234/637.m3u8 #EXTINF:0 tvg-id="CanalPlusToros.es" group-title="Channels",Toros TV http://latvonlive.com:33612/live/Rico/1234/932.m3u8 #EXTINF:0 tvg-id="TyCSports.ar" group-title="Channels",TyC Sports HD http://latvonlive.com:33612/live/Rico/1234/239.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",AT&T SportsNet Southwest HD http://latvonlive.com:33612/live/Rico/1234/736.m3u8 #EXTINF:0 tvg-id="BeINSports.es" group-title="Channels",beIN Sports HD http://latvonlive.com:33612/live/Rico/1234/261.m3u8 #EXTINF:0 tvg-id="BTNHD.us" group-title="Channels",Big Ten Network HD http://latvonlive.com:33612/live/Rico/1234/260.m3u8 #EXTINF:0 tvg-id="CBSSportsNetwork.us" group-title="Channels",CBS Sports Network http://latvonlive.com:33612/live/Rico/1234/483.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",Eleven Sports Network http://latvonlive.com:33612/live/Rico/1234/256.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",ESPN HD US http://latvonlive.com:33612/live/Rico/1234/536.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",ESPN2 HD US http://latvonlive.com:33612/live/Rico/1234/670.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",ESPNEWS HD http://latvonlive.com:33612/live/Rico/1234/671.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",ACC Network HD http://latvonlive.com:33612/live/Rico/1234/748.m3u8 #EXTINF:0 tvg-id="SECNetworkHD.us" group-title="Channels",SEC Network HD http://latvonlive.com:33612/live/Rico/1234/733.m3u8 #EXTINF:0 tvg-id="ESPNU.us" group-title="Channels",ESPNU HD http://latvonlive.com:33612/live/Rico/1234/726.m3u8 #EXTINF:0 tvg-id="FOXSoccerPlus.us" group-title="Channels",FOX Soccer Plus HD http://latvonlive.com:33612/live/Rico/1234/258.m3u8 #EXTINF:0 tvg-id="FOXSports1.us" group-title="Channels",Fox Sports 1 HD US http://latvonlive.com:33612/live/Rico/1234/372.m3u8 #EXTINF:0 tvg-id="FOXSports2.us" group-title="Channels",Fox Sports 2 HD US http://latvonlive.com:33612/live/Rico/1234/371.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",GINX eSports HD http://latvonlive.com:33612/live/Rico/1234/683.m3u8 #EXTINF:0 tvg-id="GolTV.us" group-title="Channels",GolTV US http://latvonlive.com:33612/live/Rico/1234/369.m3u8 #EXTINF:0 tvg-id="ext" group-title="Channels",MavTV HD http://latvonlive.com:33612/live/Rico/1234/831.m3u8
-
-
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",CR - Repretel Canal 6
+http://latvonlive.com:33612/live/Rico/1234/69.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CR - Teletica Canal 7
+http://latvonlive.com:33612/live/Rico/1234/66.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CR - Repretel Canal 11
+http://latvonlive.com:33612/live/Rico/1234/70.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CR - Multimedios
+http://latvonlive.com:33612/live/Rico/1234/108.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CR - Tigo Sports
+http://latvonlive.com:33612/live/Rico/1234/800.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CR - FUTV
+http://latvonlive.com:33612/live/Rico/1234/802.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",GT - Canal 3
+http://latvonlive.com:33612/live/Rico/1234/791.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",GT - Guatevision
+http://latvonlive.com:33612/live/Rico/1234/790.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",GT - Televisiete
+http://latvonlive.com:33612/live/Rico/1234/789.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",GT - TN 23
+http://latvonlive.com:33612/live/Rico/1234/788.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",SV - Canal 19
+http://latvonlive.com:33612/live/Rico/1234/73.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",SV - Canal 21
+http://latvonlive.com:33612/live/Rico/1234/72.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",SV - Tele El Salvador
+http://latvonlive.com:33612/live/Rico/1234/47.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR - America TV
+http://latvonlive.com:33612/live/Rico/1234/44.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR - Canal 9
+http://latvonlive.com:33612/live/Rico/1234/213.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR - El Trece
+http://latvonlive.com:33612/live/Rico/1234/210.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR - Telefe
+http://latvonlive.com:33612/live/Rico/1234/205.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR - Telefe Internacional HD
+http://latvonlive.com:33612/live/Rico/1234/157.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR - TN
+http://latvonlive.com:33612/live/Rico/1234/203.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR - Tv Publica
+http://latvonlive.com:33612/live/Rico/1234/202.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR - Cartoon Network HD
+http://latvonlive.com:33612/live/Rico/1234/85.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR - Space HD
+http://latvonlive.com:33612/live/Rico/1234/87.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR - TNT Series HD
+http://latvonlive.com:33612/live/Rico/1234/86.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CL - 24 Horas TVN
+http://latvonlive.com:33612/live/Rico/1234/352.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CL - Canal 13 HD
+http://latvonlive.com:33612/live/Rico/1234/353.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CL - CDF Basico Chile
+http://latvonlive.com:33612/live/Rico/1234/901.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CL - CDF HD Chile
+http://latvonlive.com:33612/live/Rico/1234/348.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CL - CDF Premium Chile
+http://latvonlive.com:33612/live/Rico/1234/903.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CL - Mega
+http://latvonlive.com:33612/live/Rico/1234/336.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CL - TV Chile
+http://latvonlive.com:33612/live/Rico/1234/575.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CO - Canal UNO
+http://latvonlive.com:33612/live/Rico/1234/201.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CO - Caracol HD
+http://latvonlive.com:33612/live/Rico/1234/200.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CO - Caracol Internacional
+http://latvonlive.com:33612/live/Rico/1234/7.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CO - City TV
+http://latvonlive.com:33612/live/Rico/1234/199.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CO - RCN HD
+http://latvonlive.com:33612/live/Rico/1234/197.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CO - RCN Internacional HD
+http://latvonlive.com:33612/live/Rico/1234/6.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CO - Teleantioquia
+http://latvonlive.com:33612/live/Rico/1234/646.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CO - Telecafé
+http://latvonlive.com:33612/live/Rico/1234/645.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CO - Telecaribe
+http://latvonlive.com:33612/live/Rico/1234/644.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CO - Telemedellín
+http://latvonlive.com:33612/live/Rico/1234/5712.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CO - TelePacifico HD
+http://latvonlive.com:33612/live/Rico/1234/133.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CO - Win Sports HD
+http://latvonlive.com:33612/live/Rico/1234/191.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CO - Win Sports+ HD
+http://latvonlive.com:33612/live/Rico/1234/5715.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",EC - Canal Uno HD
+http://latvonlive.com:33612/live/Rico/1234/596.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",EC - Ecuavisa
+http://latvonlive.com:33612/live/Rico/1234/570.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",EC - Gamavisión
+http://latvonlive.com:33612/live/Rico/1234/572.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",EC - RTS
+http://latvonlive.com:33612/live/Rico/1234/568.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",EC - TC Television
+http://latvonlive.com:33612/live/Rico/1234/571.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",EC - Teleamazonas
+http://latvonlive.com:33612/live/Rico/1234/566.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",PE - America TV
+http://latvonlive.com:33612/live/Rico/1234/573.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",PE - ATV
+http://latvonlive.com:33612/live/Rico/1234/178.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",PE - Gol TV
+http://latvonlive.com:33612/live/Rico/1234/176.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",PE - Latina
+http://latvonlive.com:33612/live/Rico/1234/175.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",PE - Panamericana
+http://latvonlive.com:33612/live/Rico/1234/170.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",PE - TV Peru HD
+http://latvonlive.com:33612/live/Rico/1234/167.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",UY - Canal 4
+http://latvonlive.com:33612/live/Rico/1234/99.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",UY - Canal 10
+http://latvonlive.com:33612/live/Rico/1234/102.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",VE - Telesur
+http://latvonlive.com:33612/live/Rico/1234/535.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",DO - Color Visión
+http://latvonlive.com:33612/live/Rico/1234/935.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",DO - Digital 15
+http://latvonlive.com:33612/live/Rico/1234/930.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",DO - Supercanal
+http://latvonlive.com:33612/live/Rico/1234/49.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",DO - Tele Antillas
+http://latvonlive.com:33612/live/Rico/1234/907.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",DO -  Telecentro
+http://latvonlive.com:33612/live/Rico/1234/909.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",DO - Teleimpacto
+http://latvonlive.com:33612/live/Rico/1234/48.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",DO - Telemicro
+http://latvonlive.com:33612/live/Rico/1234/937.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",DO - Telesistema
+http://latvonlive.com:33612/live/Rico/1234/936.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",DO - Teleuniverso
+http://latvonlive.com:33612/live/Rico/1234/939.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CU - Cubavision
+http://latvonlive.com:33612/live/Rico/1234/410.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CU - Tele Rebelde
+http://latvonlive.com:33612/live/Rico/1234/409.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",PR - Telemundo 2 WKAQDT
+http://latvonlive.com:33612/live/Rico/1234/672.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",PR - Canal 6 WIPRDT
+http://latvonlive.com:33612/live/Rico/1234/653.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",PR - Wapa America
+http://latvonlive.com:33612/live/Rico/1234/669.m3u8
