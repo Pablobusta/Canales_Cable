@@ -1,145 +1,270 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Channels",CR - Repretel Canal 6
-http://latvonlive.com:33612/live/Rico/1234/69.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CR - Teletica Canal 7
-http://latvonlive.com:33612/live/Rico/1234/66.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CR - Repretel Canal 11
-http://latvonlive.com:33612/live/Rico/1234/70.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CR - Multimedios
-http://latvonlive.com:33612/live/Rico/1234/108.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CR - Tigo Sports
-http://latvonlive.com:33612/live/Rico/1234/800.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CR - FUTV
-http://latvonlive.com:33612/live/Rico/1234/802.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GT - Canal 3
-http://latvonlive.com:33612/live/Rico/1234/791.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GT - Guatevision
-http://latvonlive.com:33612/live/Rico/1234/790.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GT - Televisiete
-http://latvonlive.com:33612/live/Rico/1234/789.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GT - TN 23
-http://latvonlive.com:33612/live/Rico/1234/788.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SV - Canal 19
-http://latvonlive.com:33612/live/Rico/1234/73.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SV - Canal 21
-http://latvonlive.com:33612/live/Rico/1234/72.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SV - Tele El Salvador
-http://latvonlive.com:33612/live/Rico/1234/47.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR - America TV
-http://latvonlive.com:33612/live/Rico/1234/44.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR - Canal 9
-http://latvonlive.com:33612/live/Rico/1234/213.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR - El Trece
-http://latvonlive.com:33612/live/Rico/1234/210.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR - Telefe
-http://latvonlive.com:33612/live/Rico/1234/205.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR - Telefe Internacional HD
-http://latvonlive.com:33612/live/Rico/1234/157.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR - TN
-http://latvonlive.com:33612/live/Rico/1234/203.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR - Tv Publica
-http://latvonlive.com:33612/live/Rico/1234/202.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR - Cartoon Network HD
-http://latvonlive.com:33612/live/Rico/1234/85.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR - Space HD
-http://latvonlive.com:33612/live/Rico/1234/87.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR - TNT Series HD
-http://latvonlive.com:33612/live/Rico/1234/86.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CL - 24 Horas TVN
-http://latvonlive.com:33612/live/Rico/1234/352.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CL - Canal 13 HD
-http://latvonlive.com:33612/live/Rico/1234/353.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CL - CDF Basico Chile
-http://latvonlive.com:33612/live/Rico/1234/901.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CL - CDF HD Chile
-http://latvonlive.com:33612/live/Rico/1234/348.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CL - CDF Premium Chile
-http://latvonlive.com:33612/live/Rico/1234/903.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CL - Mega
-http://latvonlive.com:33612/live/Rico/1234/336.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CL - TV Chile
-http://latvonlive.com:33612/live/Rico/1234/575.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CO - Canal UNO
-http://latvonlive.com:33612/live/Rico/1234/201.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CO - Caracol HD
-http://latvonlive.com:33612/live/Rico/1234/200.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CO - Caracol Internacional
-http://latvonlive.com:33612/live/Rico/1234/7.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CO - City TV
-http://latvonlive.com:33612/live/Rico/1234/199.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CO - RCN HD
-http://latvonlive.com:33612/live/Rico/1234/197.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CO - RCN Internacional HD
-http://latvonlive.com:33612/live/Rico/1234/6.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CO - Teleantioquia
-http://latvonlive.com:33612/live/Rico/1234/646.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CO - Telecafé
-http://latvonlive.com:33612/live/Rico/1234/645.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CO - Telecaribe
-http://latvonlive.com:33612/live/Rico/1234/644.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CO - Telemedellín
-http://latvonlive.com:33612/live/Rico/1234/5712.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CO - TelePacifico HD
-http://latvonlive.com:33612/live/Rico/1234/133.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CO - Win Sports HD
-http://latvonlive.com:33612/live/Rico/1234/191.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CO - Win Sports+ HD
-http://latvonlive.com:33612/live/Rico/1234/5715.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",EC - Canal Uno HD
-http://latvonlive.com:33612/live/Rico/1234/596.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",EC - Ecuavisa
-http://latvonlive.com:33612/live/Rico/1234/570.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",EC - Gamavisión
-http://latvonlive.com:33612/live/Rico/1234/572.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",EC - RTS
-http://latvonlive.com:33612/live/Rico/1234/568.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",EC - TC Television
-http://latvonlive.com:33612/live/Rico/1234/571.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",EC - Teleamazonas
-http://latvonlive.com:33612/live/Rico/1234/566.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",PE - America TV
-http://latvonlive.com:33612/live/Rico/1234/573.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",PE - ATV
-http://latvonlive.com:33612/live/Rico/1234/178.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",PE - Gol TV
-http://latvonlive.com:33612/live/Rico/1234/176.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",PE - Latina
-http://latvonlive.com:33612/live/Rico/1234/175.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",PE - Panamericana
-http://latvonlive.com:33612/live/Rico/1234/170.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",PE - TV Peru HD
-http://latvonlive.com:33612/live/Rico/1234/167.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",UY - Canal 4
-http://latvonlive.com:33612/live/Rico/1234/99.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",UY - Canal 10
-http://latvonlive.com:33612/live/Rico/1234/102.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",VE - Telesur
-http://latvonlive.com:33612/live/Rico/1234/535.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",DO - Color Visión
-http://latvonlive.com:33612/live/Rico/1234/935.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",DO - Digital 15
-http://latvonlive.com:33612/live/Rico/1234/930.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",DO - Supercanal
-http://latvonlive.com:33612/live/Rico/1234/49.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",DO - Tele Antillas
-http://latvonlive.com:33612/live/Rico/1234/907.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",DO -  Telecentro
-http://latvonlive.com:33612/live/Rico/1234/909.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",DO - Teleimpacto
-http://latvonlive.com:33612/live/Rico/1234/48.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",DO - Telemicro
-http://latvonlive.com:33612/live/Rico/1234/937.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",DO - Telesistema
-http://latvonlive.com:33612/live/Rico/1234/936.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",DO - Teleuniverso
-http://latvonlive.com:33612/live/Rico/1234/939.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CU - Cubavision
-http://latvonlive.com:33612/live/Rico/1234/410.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CU - Tele Rebelde
-http://latvonlive.com:33612/live/Rico/1234/409.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",PR - Telemundo 2 WKAQDT
-http://latvonlive.com:33612/live/Rico/1234/672.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",PR - Canal 6 WIPRDT
-http://latvonlive.com:33612/live/Rico/1234/653.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",PR - Wapa America
-http://latvonlive.com:33612/live/Rico/1234/669.m3u8
+#EXTM3U
+#EXTINF:-1,24 Horas-ext
+http://201.182.242.130:8000/play/a04p/index.m3u8
+#EXTINF:-1,AE Mundo
+http://201.182.242.130:8000/play/a01i/index.m3u8
+#EXTINF:-1,ATV-ext
+http://201.182.242.130:8000/play/a05k/index.m3u8
+#EXTINF:-1,AXN-ext
+http://201.182.242.130:8000/play/a06j/index.m3u8
+#EXTINF:-1,America TV-ext
+http://201.182.242.130:8000/play/a05q/index.m3u8
+#EXTINF:-1,AmericaTV-ext
+http://201.182.242.130:8000/play/a05i/index.m3u8
+#EXTINF:-1,Animal Planet
+http://201.182.242.130:8000/play/a019/index.m3u8
+#EXTINF:-1,C9N-ext
+http://201.182.242.130:8000/play/a067/index.m3u8
+#EXTINF:-1,CHV-emm-encodrgy-1
+http://201.182.242.130:8000/play/a04s/index.m3u8
+#EXTINF:-1,CHV-emm-encodrgy-2
+http://201.182.242.130:8000/play/a04t/index.m3u8
+#EXTINF:-1,CHV-ext
+http://201.182.242.130:8000/play/a04c/index.m3u8
+#EXTINF:-1,CNN Chile-ext
+http://201.182.242.130:8000/play/a03x/index.m3u8
+#EXTINF:-1,CNN Espanol
+http://201.182.242.130:8000/play/a00n/index.m3u8
+#EXTINF:-1,Canal 13-ext
+http://201.182.242.130:8000/play/a04d/index.m3u8
+#EXTINF:-1,Canal Caracol
+http://201.182.242.130:8000/play/a02e/index.m3u8
+#EXTINF:-1,Canal Caracol-emm-encodrgy-3
+http://201.182.242.130:8000/play/a04u/index.m3u8
+#EXTINF:-1,Canal Caracol-emm-encodrgy-4
+http://201.182.242.130:8000/play/a04y/index.m3u8
+#EXTINF:-1,Canal Caracol-emm-raspb02-13
+http://201.182.242.130:8000/play/a05b/index.m3u8
+#EXTINF:-1,Canal Caracol-emm-raspb02-18
+http://201.182.242.130:8000/play/a059/index.m3u8
+#EXTINF:-1,Canal Caracol-emm-raspb02-19
+http://201.182.242.130:8000/play/a05a/index.m3u8
+#EXTINF:-1,Canal Caracol-emm-raspb02-20
+http://201.182.242.130:8000/play/a058/index.m3u8
+#EXTINF:-1,Canal Claro-ext
+http://201.182.242.130:8000/play/a05e/index.m3u8
+#EXTINF:-1,Canal Institucional-ext
+http://201.182.242.130:8000/play/a063/index.m3u8
+#EXTINF:-1,Canal RCN
+http://201.182.242.130:8000/play/a02f/index.m3u8
+#EXTINF:-1,Canal Uno TV Ecu
+http://201.182.242.130:8000/play/a02b/index.m3u8
+#EXTINF:-1,Canal Uno-ext
+http://201.182.242.130:8000/play/a05x/index.m3u8
+#EXTINF:-1,Canal de Las estrellas
+http://201.182.242.130:8000/play/a01m/index.m3u8
+#EXTINF:-1,Canal del Congreso-ext
+http://201.182.242.130:8000/play/a064/index.m3u8
+#EXTINF:-1,Capital-ext
+http://201.182.242.130:8000/play/a06f/index.m3u8
+#EXTINF:-1,Cartoon Network
+http://201.182.242.130:8000/play/a00f/index.m3u8
+#EXTINF:-1,Cinecanal
+http://201.182.242.130:8000/play/a005/index.m3u8
+#EXTINF:-1,Cinemax
+http://201.182.242.130:8000/play/a02w/index.m3u8
+#EXTINF:-1,City TV-ext
+http://201.182.242.130:8000/play/a06e/index.m3u8
+#EXTINF:-1,Claro Cinema-ext
+http://201.182.242.130:8000/play/a06s/index.m3u8
+#EXTINF:-1,Claro Sports-ext
+http://201.182.242.130:8000/play/a042/index.m3u8
+#EXTINF:-1,Discovery Channel
+http://201.182.242.130:8000/play/a018/index.m3u8
+#EXTINF:-1,Discovery ID
+http://201.182.242.130:8000/play/a01r/index.m3u8
+#EXTINF:-1,Discovery Kids
+http://201.182.242.130:8000/play/a00m/index.m3u8
+#EXTINF:-1,Discovery Turbo
+http://201.182.242.130:8000/play/a039/index.m3u8
+#EXTINF:-1,Disney Channel
+http://201.182.242.130:8000/play/a017/index.m3u8
+#EXTINF:-1,Disney Jr
+http://201.182.242.130:8000/play/a013/index.m3u8
+#EXTINF:-1,Disney XD-ext
+http://201.182.242.130:8000/play/a03n/index.m3u8
+#EXTINF:-1,E Entertainment-ext
+http://201.182.242.130:8000/play/a04w/index.m3u8
+#EXTINF:-1,ESPN
+http://201.182.242.130:8000/play/a01d/index.m3u8
+#EXTINF:-1,ESPN 2 CO
+http://201.182.242.130:8000/play/a02n/index.m3u8
+#EXTINF:-1,ESPN 2-ext
+http://201.182.242.130:8000/play/a04z/index.m3u8
+#EXTINF:-1,ESPN 3
+http://201.182.242.130:8000/play/a03b/index.m3u8
+#EXTINF:-1,ESPN-ext
+http://201.182.242.130:8000/play/a04q/index.m3u8
+#EXTINF:-1,Ecuador TV
+http://201.182.242.130:8000/play/a025/index.m3u8
+#EXTINF:-1,Ecuador TV-emm-encodrgy-5
+http://201.182.242.130:8000/play/a053/index.m3u8
+#EXTINF:-1,Ecuador TV-emm-encodrgy-6
+http://201.182.242.130:8000/play/a057/index.m3u8
+#EXTINF:-1,Ecuador TV-emm-raspb02-12
+http://201.182.242.130:8000/play/a05c/index.m3u8
+#EXTINF:-1,Ecuavisa
+http://201.182.242.130:8000/play/a02g/index.m3u8
+#EXTINF:-1,Enlace-ext
+http://201.182.242.130:8000/play/a045/index.m3u8
+#EXTINF:-1,Esne TV-ext
+http://201.182.242.130:8000/play/a06v/index.m3u8
+#EXTINF:-1,FOX P ACTION
+http://201.182.242.130:8000/play/a00y/index.m3u8
+#EXTINF:-1,FOX P MOVIES
+http://201.182.242.130:8000/play/a00w/index.m3u8
+#EXTINF:-1,FOX P SERIES E
+http://201.182.242.130:8000/play/a00x/index.m3u8
+#EXTINF:-1,FX Movies
+http://201.182.242.130:8000/play/a00t/index.m3u8
+#EXTINF:-1,FX-ext
+http://201.182.242.130:8000/play/a06l/index.m3u8
+#EXTINF:-1,Fox Life
+http://201.182.242.130:8000/play/a00b/index.m3u8
+#EXTINF:-1,Fox Sports
+http://201.182.242.130:8000/play/a01c/index.m3u8
+#EXTINF:-1,Fox Sports 1
+http://201.182.242.130:8000/play/a020/index.m3u8
+#EXTINF:-1,Fox Sports 2
+http://201.182.242.130:8000/play/a01n/index.m3u8
+#EXTINF:-1,Fox Sports 3
+http://201.182.242.130:8000/play/a01o/index.m3u8
+#EXTINF:-1,Fox Sports-ext
+http://201.182.242.130:8000/play/a04x/index.m3u8
+#EXTINF:-1,France 24-ext
+http://201.182.242.130:8000/play/a05d/index.m3u8
+#EXTINF:-1,GOL TV-ext
+http://201.182.242.130:8000/play/a050/index.m3u8
+#EXTINF:-1,GOLTVEC-ext
+http://201.182.242.130:8000/play/a05v/index.m3u8
+#EXTINF:-1,GamaTV
+http://201.182.242.130:8000/play/a026/index.m3u8
+#EXTINF:-1,HBO
+http://201.182.242.130:8000/play/a02v/index.m3u8
+#EXTINF:-1,HBO 2-ext
+http://201.182.242.130:8000/play/a04k/index.m3u8
+#EXTINF:-1,HBO Family
+http://201.182.242.130:8000/play/a012/index.m3u8
+#EXTINF:-1,HBO Plus
+http://201.182.242.130:8000/play/a010/index.m3u8
+#EXTINF:-1,HBO XTREME SD-ext
+http://201.182.242.130:8000/play/a04m/index.m3u8
+#EXTINF:-1,HBO-ext
+http://201.182.242.130:8000/play/a06g/index.m3u8
+#EXTINF:-1,History Channel
+http://201.182.242.130:8000/play/a004/index.m3u8
+#EXTINF:-1,Home and Health-ext
+http://201.182.242.130:8000/play/a05g/index.m3u8
+#EXTINF:-1,I-Sat-ext
+http://201.182.242.130:8000/play/a03t/index.m3u8
+#EXTINF:-1,La Red-ext
+http://201.182.242.130:8000/play/a049/index.m3u8
+#EXTINF:-1,La Tele-ext
+http://201.182.242.130:8000/play/a06y/index.m3u8
+#EXTINF:-1,Latina
+http://201.182.242.130:8000/play/a01v/index.m3u8
+#EXTINF:-1,MTV-ext
+http://201.182.242.130:8000/play/a03u/index.m3u8
+#EXTINF:-1,Mega-ext
+http://201.182.242.130:8000/play/a04b/index.m3u8
+#EXTINF:-1,NPY-ext
+http://201.182.242.130:8000/play/a069/index.m3u8
+#EXTINF:-1,Nat Geo-ext
+http://201.182.242.130:8000/play/a03o/index.m3u8
+#EXTINF:-1,NatGeo Kids-ext
+http://201.182.242.130:8000/play/a03z/index.m3u8
+#EXTINF:-1,Nick Jr
+http://201.182.242.130:8000/play/a038/index.m3u8
+#EXTINF:-1,Nickelodeon-ext
+http://201.182.242.130:8000/play/a03m/index.m3u8
+#EXTINF:-1,Oglobo-ext
+http://201.182.242.130:8000/play/a05u/index.m3u8
+#EXTINF:-1,Panamericana TV
+http://201.182.242.130:8000/play/a01x/index.m3u8
+#EXTINF:-1,Panamericana TV-ext
+http://201.182.242.130:8000/play/a05j/index.m3u8
+#EXTINF:-1,Paraguay TV-ext
+http://201.182.242.130:8000/play/a05t/index.m3u8
+#EXTINF:-1,Paravision-ext
+http://201.182.242.130:8000/play/a066/index.m3u8
+#EXTINF:-1,RCN Novelas
+http://201.182.242.130:8000/play/a01q/index.m3u8
+#EXTINF:-1,RTS
+http://201.182.242.130:8000/play/a034/index.m3u8
+#EXTINF:-1,SNT-ext
+http://201.182.242.130:8000/play/a043/index.m3u8
+#EXTINF:-1,STAR CHANNEL
+http://201.182.242.130:8000/play/a04j/index.m3u8
+#EXTINF:-1,Senal Colombia-ext
+http://201.182.242.130:8000/play/a065/index.m3u8
+#EXTINF:-1,Sony
+http://201.182.242.130:8000/play/a02x/index.m3u8
+#EXTINF:-1,Space
+http://201.182.242.130:8000/play/a02z/index.m3u8
+#EXTINF:-1,Sur TV-ext
+http://201.182.242.130:8000/play/a06a/index.m3u8
+#EXTINF:-1,TBS-ext
+http://201.182.242.130:8000/play/a05f/index.m3u8
+#EXTINF:-1,TC Television
+http://201.182.242.130:8000/play/a02d/index.m3u8
+#EXTINF:-1,TCM
+http://201.182.242.130:8000/play/a00d/index.m3u8
+#EXTINF:-1,TLC-ext
+http://201.182.242.130:8000/play/a055/index.m3u8
+#EXTINF:-1,TNT SPORTS 2-ext
+http://201.182.242.130:8000/play/a04f/index.m3u8
+#EXTINF:-1,TNT SPORTS 3-ext
+http://201.182.242.130:8000/play/a052/index.m3u8
+#EXTINF:-1,TNT-ext
+http://201.182.242.130:8000/play/a041/index.m3u8
+#EXTINF:-1,TRO-ext
+http://201.182.242.130:8000/play/a06c/index.m3u8
+#EXTINF:-1,TV CAMARA-ext
+http://201.182.242.130:8000/play/a071/index.m3u8
+#EXTINF:-1,TV Peru-ext
+http://201.182.242.130:8000/play/a05n/index.m3u8
+#EXTINF:-1,TVE-ext
+http://201.182.242.130:8000/play/a046/index.m3u8
+#EXTINF:-1,TVEDUCA-ext
+http://201.182.242.130:8000/play/a04r/index.m3u8
+#EXTINF:-1,TVN-ext
+http://201.182.242.130:8000/play/a04a/index.m3u8
+#EXTINF:-1,Teleamazonas
+http://201.182.242.130:8000/play/a02h/index.m3u8
+#EXTINF:-1,Teleantioquia-ext
+http://201.182.242.130:8000/play/a06m/index.m3u8
+#EXTINF:-1,Telecafe-ext
+http://201.182.242.130:8000/play/a06z/index.m3u8
+#EXTINF:-1,Telecaribe
+http://201.182.242.130:8000/play/a03c/index.m3u8
+#EXTINF:-1,Telefe-ext
+http://201.182.242.130:8000/play/a06q/index.m3u8
+#EXTINF:-1,Telefuturo-ext
+http://201.182.242.130:8000/play/a044/index.m3u8
+#EXTINF:-1,Teleislas-ext
+http://201.182.242.130:8000/play/a06d/index.m3u8
+#EXTINF:-1,Telemundo
+http://201.182.242.130:8000/play/a01p/index.m3u8
+#EXTINF:-1,Telepacifico-ext
+http://201.182.242.130:8000/play/a06o/index.m3u8
+#EXTINF:-1,TyC Sports-ext
+http://201.182.242.130:8000/play/a051/index.m3u8
+#EXTINF:-1,Unicanal-ext
+http://201.182.242.130:8000/play/a06r/index.m3u8
+#EXTINF:-1,Universal
+http://201.182.242.130:8000/play/a006/index.m3u8
+#EXTINF:-1,Venus-ext
+http://201.182.242.130:8000/play/a054/index.m3u8
+#EXTINF:-1,ViaX-ext
+http://201.182.242.130:8000/play/a056/index.m3u8
+#EXTINF:-1,Warner-ext
+http://201.182.242.130:8000/play/a04v/index.m3u8
+#EXTINF:-1,Win-ext
+http://201.182.242.130:8000/play/a06n/index.m3u8
+#EXTINF:-1,Zona Latina-ext
+http://201.182.242.130:8000/play/a03v/index.m3u8
+#EXTINF:-1,Zoom-ext
+http://201.182.242.130:8000/play/a06b/index.m3u8
+#EXTINF:-1,trece-ext
+http://201.182.242.130:8000/play/a05o/index.m3u8
